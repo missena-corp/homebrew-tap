@@ -4,8 +4,8 @@ Missena provides a Homebrew Tap to install its tools from a single command
 line. To install it, simply run:
 
 ```shell
-$ brew tap missena-corp/tap
-$ brew install gally
+brew tap missena-corp/tap
+brew install gally
 ```
 
 [gally]: https://github.com/missena-corp/gally (Gally)
