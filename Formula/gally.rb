@@ -1,8 +1,8 @@
 class Gally < Formula
   desc "A tool to manage projects in a mono-repository"
   homepage "https://github.com/missena-corp/gally"
-  url "https://github.com/missena-corp/gally/releases/download/v0.0.33/gally_0.0.33_darwin_x86_64.tar.gz"
-  sha256 "bc22fe68b0294d313f5d7e056a2590f8682103a81e438cd9dd72ca171f55da40"
+  url "https://github.com/missena-corp/gally/releases/download/v0.0.40/gally_0.0.40_darwin_x86_64.tar.gz"
+  sha256 "ae86976e6df39b9b2d756d7c449c799bacd5c1066e9efae75134c069c94c7e22"
   
   depends_on "git"
  
